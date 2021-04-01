@@ -1,0 +1,13 @@
+Package: anna-dbgsym
+Package-Type: ddeb
+Source: anna
+Version: 0.1.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Laurent Lejeune <olol85@gmail.com>
+Installed-Size: 4102
+Depends: anna (= 0.1.0-1)
+Section: debug
+Priority: optional
+Description: debug symbols for anna
+Build-Ids: 886864982254a4cd0cbafc13d30cf6f53ad8596c

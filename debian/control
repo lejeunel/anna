@@ -1,0 +1,13 @@
+Source: anna
+Section: editors
+Priority: optional
+Maintainer: Laurent Lejeune <olol85@gmail.com>
+Build-Depends: debhelper (>= 9), qtbase5-dev, qtbase5-dev-tools, qt5-qmake, libopencv-dev, libboost-system-dev, libboost-thread-dev, libboost-chrono-dev, libinsighttoolkit4-dev, libinsighttoolkit4.12
+Standards-Version: 3.9.6
+Homepage: http://www.gaze-label.com
+
+Package: anna
+Architecture: any
+Depends: libqt5gui5, libqt5widgets5, libqt5core5a, ${misc:Depends}, ${shlibs:Depends}
+Description: Anna is a ground-truth annotation program.
+ Anna is a ground-truth annotation app based on Qt and C++.

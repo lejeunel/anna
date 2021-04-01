@@ -1,0 +1,4 @@
+?package(anna):needs="x11" \
+    section="Applications/Graphics" \
+    title="Anna" \
+    command="/usr/bin/anna"

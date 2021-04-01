@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/circle.svg</file>
+        <file>images/appIcon.svg</file>
+        <file>images/mediaRewind.svg</file>
+        <file>images/mediaRecording.svg</file>
+        <file>images/mediaRecord.svg</file>
+        <file>images/mediaPlay.svg</file>
+        <file>images/mediaPause.svg</file>
+        <file>images/mediaFastForward.svg</file>
+        <file>images/mediaRewindDisabled.svg</file>
+        <file>images/mediaRecordDisabled.svg</file>
+        <file>images/mediaPlayDisabled.svg</file>
+        <file>images/mediaFastForwardDisabled.svg</file>
+    </qresource>
+</RCC>

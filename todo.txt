@@ -1,0 +1,19 @@
+TODO / wish list
+
+Website: Gazelabel.com
+[ ] mechanic to delete old files on the server (garbage collector)
+[ ] improve security
+[ ] profile page: allow user to change name and email and delete their account
+[ ] add option to name tasks
+[ ] allow user to stop tasks
+[ ] allow user to remove tasks from the overview list
+[ ] allow to sort tasks
+[ ] smtp email server (currently a the Django dummy is implemented)
+[ ] populate about-page with meaningful stuff
+[ ] cosmetic on header/base template (find a nice stylesheet)
+
+
+Annotation App: anna
+[ ] make it work on Linux Ubuntu
+[ ] Integrate gazetracker from camera
+[ ] save toolbar positions and load them at the start of the app

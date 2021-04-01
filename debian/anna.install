@@ -1,0 +1,3 @@
+bin/anna usr/bin
+anna.desktop usr/share/applications
+src/appIcon.ico usr/share/pixmaps
